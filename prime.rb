@@ -1,2 +1,5 @@
 # Add  code here!
-def prime
+def prime(integer)
+
+
+end
